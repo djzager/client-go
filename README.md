@@ -142,7 +142,7 @@ management system. See [INSTALL.md](/INSTALL.md) for detailed instructions.
 
 ### How to use it
 
-If your application runs in a Pod in the cluster, please refer to the in-cluster [example](examples/in-cluster/main.go), otherwise please refer to the out-of-cluster [example](examples/out-of-cluster/main.go).
+If your application runs in a Pod in the cluster, please refer to the in-cluster-client-configuration [example](examples/in-cluster-client-configuration), otherwise please refer to the out-of-cluster-client-configuration [example](examples/out-of-cluster-client-configuration). Once you are able to authenticate with your cluster, see the [create-update-delete-deployment example](examples/create-update-delete-deployment) for a demonstration of the fundamental operations.
 
 ### Dependency management
 
